@@ -1,0 +1,46 @@
+{
+    "title": "棱镜之门",
+    "description": "通往镜世界的大门",
+    "keywords": "镜,个人主页",
+    "author": "镜",
+    "logo_img": "./img/icon/logo.png",
+    "logo_text_1": "slass",
+    "logo_text_2": "cc",
+    "github": "poshoi",
+    "qq": "",
+    "email": "@qq.com",
+    "bilibili": "18086029",
+    "telegram": "ericici",
+    "link_1": [
+        "https://a.slass.cc/",
+        "fa-solid fa-blog",
+        "博客"
+    ],
+    "link_2": [
+        "/",
+        "fa-solid fa-cloud",
+        "网盘"
+    ],
+    "link_3": [
+        "/",
+        "fa-solid fa-music",
+        "音乐"
+    ],
+    "link_4": [
+        "https://b.slass.cc/",
+        "fa-solid fa-wand-magic-sparkles",
+        "灵境"
+    ],
+    "link_5": [
+        "https://www.slass.cc/",
+        "fa-solid fa-book-bookmark",
+        "网址集(开发中)"
+    ],
+    "link_6": [
+        "https://www.slass.cc/",
+        "fa-solid fa-flask",
+        "实验室(开发中)"
+    ],
+    "Copyright_text": "镜",
+    "beian": ""
+}
