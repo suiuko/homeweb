@@ -1,4 +1,4 @@
-# 镜之门 网站引导页
+# 棱镜门 网站引导页
 <img src="./z3.png" >
 
 一款非常好看的个人网站引导页
@@ -96,6 +96,9 @@ let type = "playlist"; //song: 单曲; playlist: 歌单; album: 唱片
 let id = ""; //封面 ID / 单曲 ID / 歌单 ID
 ```
 
+> 推荐我的网易云音乐，一起听歌吧～
+> https://y.music.163.com/m/user?id=133241206&dlt=0846&app_version=8.8.70
+
 ### 字体
 >由于本项目引入了中文字体，需要压缩中文字体以提高网页加载速度（ 也可以取消使用中文字体 ）
 
@@ -147,7 +150,7 @@ make clean all
 
 
 
-## Stargazers over time
+## 🌟 Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/poshoi/homeweb.svg)](https://starchart.cc/poshoi/homeweb)
  
