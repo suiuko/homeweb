@@ -147,5 +147,9 @@ make clean all
 
 
 
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/poshoi/homeweb.svg)](https://starchart.cc/poshoi/homeweb)
+ 
 
 fork：https://github.com/imsyy/home
