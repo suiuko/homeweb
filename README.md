@@ -5,7 +5,7 @@
 
 ## 搭建教程
 
-[点击我！！！！](https://a.slass.cc/archives/homeweb)
+[点击我！！！！](https://www.suiu.cc/archives/homeweb)
 
 ### 功能
 
